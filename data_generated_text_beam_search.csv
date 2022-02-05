@@ -1,0 +1,339 @@
+,method,source,prompt,trial,generated_text
+0,Beam Search,Tale of Two Cities,"It was the best of times, it was the worst of times, it was ",1,"It was the best of times, it was the worst of times, it was  the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, it was the summer of faith, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair,"
+0,Beam Search,Tale of Two Cities,"It was the best of times, it was the worst of times, it was ",2,"It was the best of times, it was the worst of times, it was  the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, it was the summer of faith, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair,"
+0,Beam Search,Tale of Two Cities,"It was the best of times, it was the worst of times, it was ",3,"It was the best of times, it was the worst of times, it was  the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, it was the summer of faith, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the autumn of despair, it was the winter of faith, it was the spring of hope,"
+0,Beam Search,Tale of Two Cities,"It was the best of times, it was the worst of times, it was ",4,"It was the best of times, it was the worst of times, it was  the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, it was the summer of faith, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope,"
+0,Beam Search,Tale of Two Cities,"It was the best of times, it was the worst of times, it was ",5,"It was the best of times, it was the worst of times, it was  the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, it was the summer of faith, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the autumn of despair, it was the winter of faith, it was the summer of hope, it was the autumn of despair, it was the winter of faith, it was the summer of hope, it was the autumn of despair, it was the winter of faith, it was the summer of hope, it was the autumn of despair, it was the winter of faith, it was the summer of hope, it was the autumn of despair, it was the winter of faith, it was the summer of hope, it was the autumn of despair, it was the winter of faith, it was the summer of hope, it was the autumn of despair, it was the winter of faith, it was the summer of hope,"
+0,Beam Search,Tale of Two Cities,"It was the best of times, it was the worst of times, it was ",6,"It was the best of times, it was the worst of times, it was  the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, it was the summer of faith, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair,"
+0,Beam Search,Tale of Two Cities,"It was the best of times, it was the worst of times, it was ",7,"It was the best of times, it was the worst of times, it was  the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, it was the summer of faith, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the autumn of despair, it was the winter of faith, it was the summer of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope, it was the autumn of despair, it was the spring of hope,"
+0,Beam Search,Tale of Two Cities,"It was the best of times, it was the worst of times, it was ",8,"It was the best of times, it was the worst of times, it was  the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, it was the summer of faith, it was the autumn of despair, it was the winter of faith, it was the spring of hope, it was the autumn of despair, it was the winter of hope, it was the spring of hope, it was the autumn of despair, it was the winter of hope, it was the spring of hope, it was the autumn of despair, it was the winter of hope, it was the spring of hope, it was the autumn of despair, it was the winter of hope, it was the spring of hope, it was the autumn of despair, it was the winter of hope, it was the spring of hope, it was the autumn of despair, it was the winter of hope, it was the spring of hope, it was the autumn of despair, it was the winter of hope, it was the spring of hope,"
+0,Beam Search,Tale of Two Cities,"It was the best of times, it was the worst of times, it was ",9,"It was the best of times, it was the worst of times, it was  the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, it was the summer of faith, it was the autumn of incredulity, it was the winter of hope, it was the summer of faith, it was the autumn of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of"
+0,Beam Search,Tale of Two Cities,"It was the best of times, it was the worst of times, it was ",10,"It was the best of times, it was the worst of times, it was  the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, it was the summer of faith, it was the autumn of despair, it was the winter of faithlessness, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair, it was the spring of hope, it was the winter of despair"
+0,Beam Search,Dr. Seuss ,At the far end of town where the Grickle-grass grows ,1,At the far end of town where the Grickle-grass grows  there is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond
+0,Beam Search,Dr. Seuss ,At the far end of town where the Grickle-grass grows ,2,At the far end of town where the Grickle-grass grows  there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle
+0,Beam Search,Dr. Seuss ,At the far end of town where the Grickle-grass grows ,3,At the far end of town where the Grickle-grass grows  there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the
+0,Beam Search,Dr. Seuss ,At the far end of town where the Grickle-grass grows ,4,At the far end of town where the Grickle-grass grows  there is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a pond.  In the middle of the pond is a pond.  In the middle of the pond is a pond.  In the middle of the pond is a pond.  In the middle of the pond is a pond.  In the middle of the pond is a pond.  In the middle of the pond is a pond.  In the middle of the pond is a pond.  In the middle of the pond is a pond.  In the middle of the pond is a pond.  In the middle of the pond is a pond.  In the middle of the pond is a pond.  In the middle of the pond is a pond.  In the middle of the pond is a pond.  In the middle of the pond is a pond.  In the middle of the pond is a pond.  In the middle of the pond is a pond
+0,Beam Search,Dr. Seuss ,At the far end of town where the Grickle-grass grows ,5,At the far end of town where the Grickle-grass grows  there is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of
+0,Beam Search,Dr. Seuss ,At the far end of town where the Grickle-grass grows ,6,At the far end of town where the Grickle-grass grows  there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a pond.  In the middle of the pond there is a pond.  In the middle of the pond there is a pond.  In the middle of the pond there is a pond.  In the middle of the pond there is a pond.  In the middle of the pond there is a pond.  In the middle of the pond there is a pond.  In the middle of the pond there is a pond.  In the middle of the pond there is a pond.  In the middle of the pond there is a pond.  In the middle of the pond there is a pond.  In the middle of the pond there is a pond.  In the middle of the pond there is a pond.  In the middle of the pond there is a pond.  In the middle of the pond there is a pond.  In the middle of
+0,Beam Search,Dr. Seuss ,At the far end of town where the Grickle-grass grows ,7,At the far end of town where the Grickle-grass grows  there is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle
+0,Beam Search,Dr. Seuss ,At the far end of town where the Grickle-grass grows ,8,At the far end of town where the Grickle-grass grows  there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of
+0,Beam Search,Dr. Seuss ,At the far end of town where the Grickle-grass grows ,9,At the far end of town where the Grickle-grass grows  there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond there is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of
+0,Beam Search,Dr. Seuss ,At the far end of town where the Grickle-grass grows ,10,At the far end of town where the Grickle-grass grows  there is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond is a small pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond.  In the middle of the pond. 
+0,Beam Search,The Bible,In the beginning God created the heaven and the earth.,1,"In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day. And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. And God called the firmament Heaven. And the evening and the morning were the second day. And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so. And God called the dry land Earth, and the gathering together of the waters called he Seas: and God saw that it was good. And the evening and the morning were the third day. And God"
+0,Beam Search,The Bible,In the beginning God created the heaven and the earth.,2,"In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day. And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. And God called the firmament Heaven. And the evening and the morning were the second day. And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so. And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good. And the evening and the morning were the third day. And God"
+0,Beam Search,The Bible,In the beginning God created the heaven and the earth.,3,"In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. God called the light Day, and the darkness he called Night. And the evening and the morning were the first day. And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. And God called the firmament Heaven. And the evening and the morning were the second day. And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so. And God called the dry land Earth, and the gathering together of the waters called he Seas: and God saw that it was good. And the evening and the morning were the third day. And God said"
+0,Beam Search,The Bible,In the beginning God created the heaven and the earth.,4,"In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. God called the light Day, and the darkness he called Night. And the evening and the morning were the first day. And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. And God called the firmament Heaven. And the evening and the morning were the second day. And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so. And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good. And the evening and the morning were the third day. And God said"
+0,Beam Search,The Bible,In the beginning God created the heaven and the earth.,5,"In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day. And the evening and the morning were the second day. And the evening and the morning were the third day. And the evening and the morning were the fourth day. And the evening and the morning were the fifth day. And the evening and the morning were the sixth day. And the evening and the morning were the seventh day. And the evening and the morning were the eighth day. And the evening and the morning were the ninth day. And the evening and the morning were the tenth day. And the evening and the morning were the eleventh day. And the evening and the morning were the twelfth day. And the evening and the morning were the thirteenth day. And the evening and the morning were the fourteenth day"
+0,Beam Search,The Bible,In the beginning God created the heaven and the earth.,6,"In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day. And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. And God called the firmament Heaven. And the evening and the morning were the second day. And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. And God called the firmament Heaven. And the"
+0,Beam Search,The Bible,In the beginning God created the heaven and the earth.,7,"In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. God called the light Day, and the darkness he called Night. And the evening and the morning were the first day. And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. And God called the firmament Heaven. And the evening and the morning were the second day. And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. And God called the firmament Heaven. And the evening"
+0,Beam Search,The Bible,In the beginning God created the heaven and the earth.,8,"In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day. And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. And God called the firmament Heaven. And the evening and the morning were the second day. And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so. And God called the dry land Earth and the gathering together of the waters called he Seas: and God saw that it was good. And the evening and the morning were the third day. And God said"
+0,Beam Search,The Bible,In the beginning God created the heaven and the earth.,9,"In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day. And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. And God called the firmament Heaven. And the evening and the morning were the second day. And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so. And God called the dry land Earth, and the gathering together of the waters called he Seas: and God saw that it was good. And God said, Let the earth bring forth grass, the herb"
+0,Beam Search,The Bible,In the beginning God created the heaven and the earth.,10,"In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day. And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. And God called the firmament Heaven. And the evening and the morning were the second day. And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so. And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good. And God said, Let the earth bring forth grass, the herb"
+0,Beam Search,Douglas Adams,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got ",1,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+""Forty-two!""
+
+"
+0,Beam Search,Douglas Adams,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got ",2,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that"
+0,Beam Search,Douglas Adams,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got ",3,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl.
+
+""Forty-two!"" yelled Loonquawl.
+
+""Forty-two!"" yelled Loonquawl.
+
+""Forty-two!"" yelled Loonquawl.
+
+""Forty-two!"" yelled Loonquawl.
+
+""Forty-two!"" yelled Loonquawl.
+
+""Forty-two!"" yelled Loonquawl.
+
+""Forty-two!"" yelled Loonquawl.
+
+""Forty-two!"" yelled Loonquawl.
+
+""Forty-two!"" yelled Loonquawl.
+
+""Forty-two!"" yelled Loonquawl.
+
+""Forty-two!"" yelled Loonquawl.
+
+""Forty-two!"" yelled Loonquawl.
+
+""Forty-two!"" yelled Loonquawl.
+
+""Forty-two!"" yelled Loonquawl.
+"
+0,Beam Search,Douglas Adams,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got ",4,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled L"
+0,Beam Search,Douglas Adams,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got ",5,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that"
+0,Beam Search,Douglas Adams,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got ",6,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that"
+0,Beam Search,Douglas Adams,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got ",7,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" shouted L"
+0,Beam Search,Douglas Adams,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got ",8,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all"
+0,Beam Search,Douglas Adams,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got ",9,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" shouted Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled Loonquawl. ""Is that all you've got?""
+
+""Forty-two!"" yelled L"
+0,Beam Search,Douglas Adams,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got ",10,"""Forty-two!"" yelled Loonquawl. ""Is that all you’ve got?""
+
+""Forty-two!"" shouted Loonquawl.
+
+""Forty-two!"" shouted Loonquawl.
+
+""Forty-two!"" shouted Loonquawl.
+
+""Forty-two!"" shouted Loonquawl.
+
+""Forty-two!"" shouted Loonquawl.
+
+""Forty-two!"" shouted Loonquawl.
+
+""Forty-two!"" shouted Loonquawl.
+
+""Forty-two!"" shouted Loonquawl.
+
+""Forty-two!"" shouted Loonquawl.
+
+""Forty-two!"" shouted Loonquawl.
+
+""Forty-two!"" shouted Loonquawl.
+
+""Forty-two!"" shouted Loonquawl.
+
+""Forty-two!"" shouted Loonquawl.
+
+""Forty-two!"" shouted Loonquawl.
+
+""Forty-two!"" shouted Loonquawl.
+"
+0,Beam Search,CNN,Having arrived in China as the most successful,1,"Having arrived in China as the most successful foreign investor in the country's history, Mr. Trump has made no secret of his admiration for the country's leader, Xi Jinping, whom he has called ""a very special man.""
+
+""I think he's a very special man,"" Mr. Trump said of Mr. Xi in an interview with The Wall Street Journal last month. ""I think he's very smart. I think he's very tough. I think he's a very good leader. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's"
+0,Beam Search,CNN,Having arrived in China as the most successful,2,"Having arrived in China as the most successful foreign investor in the country's history, Mr. Trump has made no secret of his admiration for the country's leader, Xi Jinping, whom he has called ""a very special man.""
+
+""I think he's a very special man,"" Mr. Trump said of Mr. Xi in an interview with The Wall Street Journal last month. ""I think he's very smart. I think he's very tough. I think he's a very good leader. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator"
+0,Beam Search,CNN,Having arrived in China as the most successful,3,"Having arrived in China as the most successful foreign investor in the country's history, Mr. Trump has made no secret of his admiration for the country's leader, Xi Jinping, whom he has called ""a very special man.""
+
+""I think he's a very special man,"" Mr. Trump said of Mr. Xi in an interview with The Wall Street Journal last month. ""I think he's very smart. I think he's very tough. I think he's a very good leader. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener"
+0,Beam Search,CNN,Having arrived in China as the most successful,4,"Having arrived in China as the most successful foreign investor in the country's history, Mr. Trump has made no secret of his admiration for the country's leader, Xi Jinping, whom he has called ""a very special man.""
+
+""I think he's a very special man,"" Mr. Trump said of Mr. Xi in an interview with The Wall Street Journal last month. ""I think he's very smart. I think he's very tough. I think he's a very good leader. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator"
+0,Beam Search,CNN,Having arrived in China as the most successful,5,"Having arrived in China as the most successful foreign investor in the country's history, Mr. Trump has made no secret of his admiration for the country's leader, Xi Jinping, whom he has called ""a very special man.""
+
+""I think he's a very special man,"" Mr. Trump said of Mr. Xi in an interview with The Wall Street Journal last month. ""I think he's very smart. I think he's very tough. I think he's a very good leader. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener.""
+
+Mr."
+0,Beam Search,CNN,Having arrived in China as the most successful,6,"Having arrived in China as the most successful foreign investor in the country's history, Mr. Trump has made no secret of his admiration for the country's leader, Xi Jinping, whom he has called ""a very special man.""
+
+""I think he's a very special man,"" Mr. Trump said of Mr. Xi in an interview with The Wall Street Journal last month. ""I think he's very smart. I think he's very tough. I think he's a very good leader. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator"
+0,Beam Search,CNN,Having arrived in China as the most successful,7,"Having arrived in China as the most successful foreign investor in the country's history, Mr. Trump has made no secret of his admiration for the country's leader, Xi Jinping, whom he has called ""a very special man.""
+
+""I think he's a very special man,"" Mr. Trump said of Mr. Xi in an interview with The Wall Street Journal last month. ""I think he's very smart. I think he's very tough. I think he's a very good leader. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator"
+0,Beam Search,CNN,Having arrived in China as the most successful,8,"Having arrived in China as the most successful foreign investor in the country's history, Mr. Trump has made no secret of his admiration for the country's leader, Xi Jinping, whom he has called ""a very special man.""
+
+""I think he's a very special man,"" Mr. Trump said of Mr. Xi in an interview with The Wall Street Journal last month. ""I think he's very smart. I think he's very tough. I think he's a very good leader. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator"
+0,Beam Search,CNN,Having arrived in China as the most successful,9,"Having arrived in China as the most successful foreign investor in the country's history, Mr. Trump has made no secret of his admiration for the country's leader, Xi Jinping, whom he has called ""a very special man.""
+
+""I think he's a very special man,"" Mr. Trump said of Mr. Xi in an interview with The Wall Street Journal last month. ""I think he's very smart. I think he's very tough. I think he's a very good leader. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener"
+0,Beam Search,CNN,Having arrived in China as the most successful,10,"Having arrived in China as the most successful foreign investor in the country's history, Mr. Trump has made no secret of his admiration for the country's leader, Xi Jinping, whom he has called ""a very special man.""
+
+""I think he's a very special man,"" Mr. Trump said of Mr. Xi in an interview with The Wall Street Journal last month. ""I think he's very smart. I think he's very tough. I think he's a very good leader. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good communicator. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener. I think he's a very good listener,"" Mr. Trump said"
+0,Beam Search,Reddit,Yes! This! I wanted to say that the thing I wanted ,1,Yes! This! I wanted to say that the thing I wanted ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ�
+0,Beam Search,Reddit,Yes! This! I wanted to say that the thing I wanted ,2,Yes! This! I wanted to say that the thing I wanted ㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜ�
+0,Beam Search,Reddit,Yes! This! I wanted to say that the thing I wanted ,3,Yes! This! I wanted to say that the thing I wanted ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ�
+0,Beam Search,Reddit,Yes! This! I wanted to say that the thing I wanted ,4,Yes! This! I wanted to say that the thing I wanted ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ�
+0,Beam Search,Reddit,Yes! This! I wanted to say that the thing I wanted ,5,Yes! This! I wanted to say that the thing I wanted ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ�
+0,Beam Search,Reddit,Yes! This! I wanted to say that the thing I wanted ,6,Yes! This! I wanted to say that the thing I wanted ㅠㅠ ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ�
+0,Beam Search,Reddit,Yes! This! I wanted to say that the thing I wanted ,7,Yes! This! I wanted to say that the thing I wanted ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ�
+0,Beam Search,Reddit,Yes! This! I wanted to say that the thing I wanted ,8,"Yes! This! I wanted to say that the thing I wanted ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ
+
+"
+0,Beam Search,Reddit,Yes! This! I wanted to say that the thing I wanted ,9,Yes! This! I wanted to say that the thing I wanted ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ�
+0,Beam Search,Reddit,Yes! This! I wanted to say that the thing I wanted ,10,Yes! This! I wanted to say that the thing I wanted ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ�
