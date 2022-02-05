@@ -1,1 +1,4 @@
-# go baby go
+# GPT-2 Text Generation Experiment
+## February 2022
+
+Comparing different neural text generation methods using GPT-2 based on perplexity and repetition
